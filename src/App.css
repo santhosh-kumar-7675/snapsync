@@ -154,7 +154,7 @@ a{
 }
 
 .image-col.not-approved{
-  border: 2px solid #dc3545;
+  /* border: 2px solid #dc3545; */
 }
 
 .form-switch .form-check-input{
@@ -165,7 +165,7 @@ a{
 
 @media (max-width: 425px) { 
   .image-col {
-    background-color: #002d70;
+    /* background-color: #002d70; */
     max-width: 100%;
   }
   .content {
@@ -186,7 +186,7 @@ a{
 
 @media (max-width: 524px) and (min-width: 374px) { 
   .image-col {
-    background-color: #dc3545;
+    /* background-color: #dc3545; */
     max-width: 100%;
   }
   .content {
@@ -203,7 +203,7 @@ a{
 
 @media (max-width: 769px) and (min-width: 525px) { 
   .image-col {
-    background-color: #3e6baf;
+    /* background-color: #3e6baf; */
     max-width: 48%;
   }
   .posts-wrapper {
